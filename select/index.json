@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "木蘭の涙",
+  "base_artist": "スターダスト☆レビュー",
+  "createdAt": "2025-12-31T08:04:49.428890Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "木蘭の涙 with コブクロ",
+      "artist": "Chikuzen Sato",
+      "has_synced": true,
+      "path": "select/01_木蘭の涙_with_コブクロ_Chikuzen_Sato.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "木蘭の涙",
+      "artist": "佐藤竹善 with コブクロ",
+      "has_synced": true,
+      "path": "select/02_木蘭の涙_佐藤竹善_with_コブクロ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "木蘭の涙",
+      "artist": "谷村新司/アリス",
+      "has_synced": false,
+      "path": "select/03_木蘭の涙_谷村新司_アリス.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "木蘭の涙",
+      "artist": "鈴木雅之",
+      "has_synced": true,
+      "path": "select/04_木蘭の涙_鈴木雅之.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "木蘭の涙",
+      "artist": "Suzuki, Masayuki",
+      "has_synced": true,
+      "path": "select/05_木蘭の涙_Suzuki,_Masayuki.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "木蘭の涙",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/06_木蘭の涙_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "木蘭の涙 〜acoustic〜 - Mokuren No Namida (Acoustic)",
+      "artist": "STARDUST REVUE",
+      "has_synced": true,
+      "path": "select/07_木蘭の涙_〜acoustic〜_-_Mokuren_No_Namida_(Acoustic)_STARDUST_REVUE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "木蘭の涙 - acoustic",
+      "artist": "Stardust Revue",
+      "has_synced": true,
+      "path": "select/08_木蘭の涙_-_acoustic_Stardust_Revue.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "木蘭の涙",
+      "artist": "夏川 りみ",
+      "has_synced": true,
+      "path": "select/09_木蘭の涙_夏川_りみ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "木蘭の涙",
+      "artist": "佐藤竹善",
+      "has_synced": true,
+      "path": "select/10_木蘭の涙_佐藤竹善.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "木蘭の涙",
+      "artist": "クリス・ハート",
+      "has_synced": true,
+      "path": "select/11_木蘭の涙_クリス・ハート.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "木蘭の涙 with コブクロ",
+      "artist": "佐藤竹善",
+      "has_synced": true,
+      "path": "select/12_木蘭の涙_with_コブクロ_佐藤竹善.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "木蘭の涙",
+      "artist": "STARDUST REVUE",
+      "has_synced": false,
+      "path": "select/pl_01_木蘭の涙_STARDUST_REVUE.txt"
+    }
+  ]
+}
